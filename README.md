@@ -6,4 +6,12 @@
 
 Kent C. Dodds: [Array reduce vs chaining vs for loop](https://kentcdodds.com/blog/array-reduce-vs-chaining-vs-for-loop)
 
+- ES6
+- JavaScript
+- Array.map
+- Array.reduce
+- for loop
+- performance
+- readability
+- trade-off
 ---
