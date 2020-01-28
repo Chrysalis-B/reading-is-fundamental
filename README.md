@@ -8,8 +8,8 @@ Kent C. Dodds: [Array reduce vs chaining vs for loop](https://kentcdodds.com/blo
 
 - ES6
 - JavaScript
-- Array.map
-- Array.reduce
+- Array.prototype.map
+- Array.prototype.reduce
 - for loop
 - performance
 - readability
@@ -25,3 +25,13 @@ Garrett Dimon: [Password reset email design best practices](https://postmarkapp.
 - Email Templates
 - Security
 - Password reset
+
+Flavio Copes: [How to trim the leading zero in a number in JavaScript](https://flaviocopes.com/how-to-trim-leading-zero-number/)
+
+- JavaScript
+- Tips and Tricks
+- Concise Advice
+- parseInt()
+- String.prototype.replace
+- Unary Operator
+- Regex
