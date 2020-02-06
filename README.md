@@ -14,6 +14,7 @@ Kent C. Dodds: [Array reduce vs chaining vs for loop](https://kentcdodds.com/blo
 - performance
 - readability
 - trade-off
+
 ---
 
 ## 28.01.2020
@@ -35,3 +36,18 @@ Flavio Copes: [How to trim the leading zero in a number in JavaScript](https://f
 - String.prototype.replace
 - Unary Operator
 - Regex
+---
+
+## 06.02.2020
+
+Lucas Santoni: [ESLint configuration and best practices](https://blog.geographer.fr/eslint-guide)
+
+- ESLint
+- Linting
+- Configuration
+- Style guide
+- TypeScript
+- JavaScript
+- React
+
+
