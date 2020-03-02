@@ -36,6 +36,7 @@ Flavio Copes: [How to trim the leading zero in a number in JavaScript](https://f
 - String.prototype.replace
 - Unary Operator
 - Regex
+
 ---
 
 ## 06.02.2020
@@ -50,4 +51,14 @@ Lucas Santoni: [ESLint configuration and best practices](https://blog.geographer
 - JavaScript
 - React
 
+---
+
+## 02.03.2020
+
+Kent C. Dodds: [Make Your Test Fail](https://kentcdodds.com/blog/make-your-test-fail)
+
+- JavaScript
+- Testing
+- Unit tests
+- Jest
 
