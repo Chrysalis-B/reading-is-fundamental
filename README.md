@@ -71,3 +71,12 @@ Chris Ferdinandi: [How to use requestAnimationFrame() with vanilla JS](https://g
 - DOM
 - animation
 - recursion
+
+Chris Ferdinandi: [The Lean Web](https://leanweb.dev/ebook/)
+
+- Lean Web
+- E-book
+- Opinion
+- Web development
+- State of web development
+- Old man yells at cloud
