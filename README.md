@@ -80,3 +80,10 @@ Chris Ferdinandi: [The Lean Web](https://leanweb.dev/ebook/)
 - Web development
 - State of web development
 - Old man yells at cloud
+
+Chris Ferdinandi: [Smooth Scrolling](https://vanillajstoolkit.com/reference/javascript-free/smooth-scrolling/)
+
+- Scrolling animation
+- CSS
+- Reduce Motion API
+- Web development
