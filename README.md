@@ -62,3 +62,12 @@ Kent C. Dodds: [Make Your Test Fail](https://kentcdodds.com/blog/make-your-test-
 - Unit tests
 - Jest
 
+Chris Ferdinandi: [How to use requestAnimationFrame() with vanilla JS](https://gomakethings.com/how-to-use-requestanimationframe-with-vanilla-js/)
+
+- JavaScript
+- Vanilla JavaScript
+- window.requestAnimationFrame
+- requestAnimationFrame
+- DOM
+- animation
+- recursion
